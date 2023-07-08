@@ -1,1 +1,3 @@
-# C-prgramming-Questions
+TRYING TO LEARN ABOUT
+HTML AND C
+
