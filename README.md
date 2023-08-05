@@ -1,3 +1,3 @@
-TRYING TO LEARN ABOUT
-C
+Code regarding C programming 
+
 
